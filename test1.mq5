@@ -18,7 +18,7 @@ input int tpPoints = 500;
 input int slPoints = 500;
 input int TslTriggerPoints = 200;
 input int TslPoints = 100;
-input int magic1 = 1;
+input int magic1 = 123456;
 int AtrHandle;
 CTrade trade;
 int BarsTotal;
